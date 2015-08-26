@@ -1,5 +1,7 @@
 # Welcome to INFO 490: Foundations of Data Science #
 
+[![Join the chat at https://gitter.im/UI-DataScience/info490-fa15](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UI-DataScience/info490-fa15?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ***Professor:*** Dr. Robert Brunner
 
 ***Teaching Assistants:*** 
