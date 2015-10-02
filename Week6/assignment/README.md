@@ -1,24 +1,22 @@
-# Week 5 Assignment
+# Week 6 Assignment
 
-## Deeadline is extended to Sunday, 9/27, 6:00 PM due to the FAA services being down.
-
-Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
+Submit your completed assignment (**.ipynb** files) onto Moodle.
 
 ## Announcement
 
 You must submit your assignment in two places:
 
-1. Week 5 Assignment (Peer Assessment)
+1. Week 6 Assignment (Peer Assessment)
 
-2. Week 5 Assignment (Instructors)
+2. Week 6 Assignment (Instructors)
 
 One is just for the peer assessment, and the other one is just for instructor's grades.
 
-## Submission deadline: Saturday, September 26th, 2015, 6:00 PM
+## Submission deadline: Saturday, October 3rd, 2015, 6:00 PM
 
-## Problem 5.1. See template: [Reading a CSV file](fileio.ipynb)
+## Problem 6.1. See template: [Flights Data](flights.ipynb)
 
-## Problem 5.2. See template: [Requests](requests.ipynb)
+## Problem 6.2. See template: [Twitter](twitter.ipynb)
 
 Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
 
